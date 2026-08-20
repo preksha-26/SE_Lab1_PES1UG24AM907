@@ -34,7 +34,7 @@ Five functional requirements (FR-001 to FR-005) and two non-functional requireme
 - `Generate Audit Export` **«include»s** `Compute Integrity Hash` — hashing always runs as part of export generation.
 - `Flag Tampering Alert` **«extend»s** `Verify Export Integrity` — the alert only fires conditionally, when a tamper check fails.
 
-Full diagram source is available in [`/diagrams`](./diagrams).
+Full diagram source is available in [`/diagrams`](./use-case-diagram).
 
 ## Use-Case Flow Specification
 

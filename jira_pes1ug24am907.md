@@ -78,11 +78,13 @@ Progress was simulated by moving stories across **To Do → In Progress → Done
 ## Screenshots
 
 ### 1. Backlog with Story Points
-![<img width="906" height="523" alt="WhatsApp Image 2026-09-01 at 3 41 24 PM" src="https://github.com/user-attachments/assets/c7dea142-014c-4ee4-99be-d20aa4c1763f" />
+![<img width="906" height="523" alt="WhatsApp Image 2026-09-01 at 3 41 24 PM" src="https://github.com/user-attachments/assets/237e1487-8a61-4398-953f-f051d35c3a26" />
+
 ](screenshots/backlog-points.png)
 
 ### 2. Prioritized & Reordered Backlog
-![<img width="860" height="548" alt="WhatsApp Image 2026-09-01 at 3 45 09 PM" src="https://github.com/user-attachments/assets/33f6ed21-f6b6-4c3c-bb5e-93ca4534d334" />
+![<img width="860" height="548" alt="WhatsApp Image 2026-09-01 at 3 45 09 PM" src="https://github.com/user-attachments/assets/0122fe65-37a2-4f21-980f-4dd67a16e7d0" />
+
 ](screenshots/backlog-priority.png)
 
 ### 3. Sprint 1 Board (To Do / In Progress / Done)
@@ -93,11 +95,13 @@ Progress was simulated by moving stories across **To Do → In Progress → Done
 
 
 ### 4. Comment on a Story
-![<img width="362" height="746" alt="WhatsApp Image 2026-09-01 at 3 47 35 PM" src="https://github.com/user-attachments/assets/9123ab66-d165-44c6-a652-bb32f13bb0e3" />
+![<img width="362" height="746" alt="WhatsApp Image 2026-09-01 at 3 47 35 PM" src="https://github.com/user-attachments/assets/f7417786-1905-448c-9cd2-5223a34cfae5" />
+
 ](screenshots/comment.png)
 
 ### 5. Burndown Chart
-![<img width="1426" height="370" alt="WhatsApp Image 2026-09-01 at 3 49 23 PM" src="https://github.com/user-attachments/assets/71a3c732-686d-4291-8a40-246dab0a7648" />
+![<img width="1426" height="370" alt="WhatsApp Image 2026-09-01 at 3 49 23 PM" src="https://github.com/user-attachments/assets/4da86709-7ff0-46c7-bcb5-3398acaef6ba" />
+
 ](screenshots/burndown.png)
 
 ### 6.Summary 

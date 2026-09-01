@@ -100,6 +100,12 @@ Progress was simulated by moving stories across **To Do → In Progress → Done
 ![<img width="1426" height="370" alt="WhatsApp Image 2026-09-01 at 3 49 23 PM" src="https://github.com/user-attachments/assets/71a3c732-686d-4291-8a40-246dab0a7648" />
 ](screenshots/burndown.png)
 
+### 6.Summary 
+![<img width="1342" height="626" alt="image" src="https://github.com/user-attachments/assets/cd54916a-fb08-4dd0-ab26-15d209c15015" />]
+![<img width="1080" height="617" alt="image" src="https://github.com/user-attachments/assets/0c2e5a99-9d2f-4340-bb1d-c26ca96c8da7" />]
+
+
+
 ## Reflection
 
 Working through this lab made the difference between a backlog and a *prioritized* backlog concrete — reordering stories by dependency (ingestion before search, search before reporting) showed how Agile prioritization is really about sequencing value delivery, not just labeling importance. Estimating story points using Fibonacci also forced a more disciplined way of thinking about complexity versus effort, rather than guessing "big vs. small."

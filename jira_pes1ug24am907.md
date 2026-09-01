@@ -82,7 +82,8 @@ Progress was simulated by moving stories across **To Do → In Progress → Done
 ](screenshots/backlog-points.png)
 
 ### 2. Prioritized & Reordered Backlog
-![](screenshots/backlog-priority.png)
+![<img width="860" height="548" alt="WhatsApp Image 2026-09-01 at 3 45 09 PM" src="https://github.com/user-attachments/assets/33f6ed21-f6b6-4c3c-bb5e-93ca4534d334" />
+](screenshots/backlog-priority.png)
 
 ### 3. Sprint 1 Board (To Do / In Progress / Done)
 ![<img width="885" height="186" alt="WhatsApp Image 2026-09-01 at 3 46 01 PM" src="https://github.com/user-attachments/assets/756f518f-b395-40b6-b583-7b16ad278d6c" />

@@ -15,7 +15,8 @@ A compliance logging platform that ingests enterprise application event logs, ma
 
 ## UML Use-Case Diagram
 
-![Use case diagram](use_case_diagram.png)
+![Use case diagram]<img width="1150" height="800" alt="image" src="https://github.com/user-attachments/assets/52defa5d-1d61-4939-bf79-48d2f4a75bbe" />
+
 
 - `Generate Audit Export` **«include»s** `Compute Integrity Hash` — hashing always runs as part of export generation.
 - `Flag Tampering Alert` **«extend»s** `Verify Export Integrity` — the alert only fires conditionally, when a tamper check fails.

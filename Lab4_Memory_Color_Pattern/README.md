@@ -11,7 +11,7 @@ A Simon-style pattern recall game built with **Pygame**. The game uses a finite 
 
 | Item | Link |
 |------|------|
-| Chat / LLM history | *(paste shared chat link here)* |
+| Chat / LLM history | *(https://claude.ai/share/e73defcc-4dd1-4a18-bf03-3e9d909fb9e5)* |
 
 ---
 

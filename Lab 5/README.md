@@ -1,4 +1,4 @@
-# Lab 5 and 6 – Software Engineering Lab
+# Lab 5 – Software Engineering Lab
 
 **Project:** Car Rental Management System  
 **Course:** Software Engineering Laboratory  
